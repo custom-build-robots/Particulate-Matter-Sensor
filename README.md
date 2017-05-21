@@ -15,3 +15,7 @@ This program logs the GPS coordinates and particulate matter values in different
 ### Google Earth KML files with point
 - PM2.5 KLM file with and the messured values.
 - PM2.5 KLM file with and the messured values.
+## Auto start
+This is the script "sds_start.sh" to start the python program via the cronttab after each reboot of the Raspberry Pi.
+Just add the following line into the crontrab "sudo nano /etc/crontab".
+"@reboot pi /home/pi/feinstaub/sds_start.sh &" (without the ")
