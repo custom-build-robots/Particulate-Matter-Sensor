@@ -11,9 +11,11 @@ This program logs the GPS coordinates and particulate matter values in a CSV fil
 ## Python program sds011_2.py
 This program logs the GPS coordinates and particulate matter values in different KML files.
 ### Google Earth KML files with lines
+Please add at the end of each KML file the closing for Document </Document> and kml </kml>.
 - PM2.5 KLM file with a line (red orange green) and the altitude shows how high the messured values are.
 - PM10 KLM file with a line (red orange green) and the altitude shows how high the messured values are.
 ### Google Earth KML files with point
+Please add at the end of each KML file the closing for Document </Document> and kml </kml>.
 - PM2.5 KLM file with and the messured values.
 - PM2.5 KLM file with and the messured values.
 # HowTo Guide
