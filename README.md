@@ -20,3 +20,7 @@ This is the script "sds_start.sh" to start the python program via the cronttab a
 Just add the following line into the crontrab with the command "sudo nano /etc/crontab".
 line to add:
 - @reboot pi /home/pi/feinstaub/sds_start.sh &
+## Known issue
+The KML files are not closed correct. Please manual add the following two lines at the end of each KML file. Otherwise Google Earth will raise an error.
+</Document>
+</kml>
