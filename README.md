@@ -16,6 +16,6 @@ This program logs the GPS coordinates and particulate matter values in different
 ### Google Earth KML files with point
 - PM2.5 KLM file with and the messured values.
 - PM2.5 KLM file with and the messured values.
-# Bauanleitung
-Die Bauanleitung findet sich auf meinem Blog unter der folgenden URL:
+# HowTo Guide
+Teh detailed HowTo is available on my blog:
 https://www.byteyourlife.com/haushaltsgeraete/feinstaub-sensor-sds011-mobile-variante-mit-datenaufzeichnung-und-gps-logging/7253
