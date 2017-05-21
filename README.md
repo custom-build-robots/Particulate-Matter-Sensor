@@ -22,5 +22,5 @@ line to add:
 - @reboot pi /home/pi/feinstaub/sds_start.sh &
 ## Known issue
 The KML files are not closed correct. Please manual add the following two lines at the end of each KML file. Otherwise Google Earth will raise an error.
-- </Document>
-- </kml>
+- '</Document>'
+- '</kml>'
