@@ -2,6 +2,7 @@
 This is my  python program for the mobile particulate matter sensor. 
 You need a SDS011 particulate matter sensor and a USB GPS receiver.
 I installed everything on a Raspberry Pi ZERO W.
+![me and the mobile version of the Particulate Matter Sensor](https://www.byteyourlife.com/wp-content/uploads/2017/05/Ingmar_Stapel_mobiler_Feinstaub_Sensor_SDS011_klein.jpg)
 ## Component List
 - SDS011 particualte matter sensor
 - USB GPS receiver
