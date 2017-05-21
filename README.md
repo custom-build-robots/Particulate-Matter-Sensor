@@ -16,12 +16,6 @@ This program logs the GPS coordinates and particulate matter values in different
 ### Google Earth KML files with point
 - PM2.5 KLM file with and the messured values.
 - PM2.5 KLM file with and the messured values.
-## Auto start
-This is the script "sds_start.sh" to start the python program via the cronttab after each reboot of the Raspberry Pi.
-Just add the following line into the crontrab with the command "sudo nano /etc/crontab".
-line to add:
-- @reboot pi /home/pi/feinstaub/sds_start.sh &
-## Known issue
-The KML files are not closed correct. Please manual add the following two lines at the end of each KML file. Otherwise Google Earth will raise an error.
-- '</Document>'
-- '</kml>'
+# Bauanleitung
+Die Bauanleitung findet sich auf meinem Blog unter der folgenden URL:
+https://www.byteyourlife.com/haushaltsgeraete/feinstaub-sensor-sds011-mobile-variante-mit-datenaufzeichnung-und-gps-logging/7253
