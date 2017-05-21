@@ -18,6 +18,8 @@ Please add at the end of each KML file the closing for Document </Document> and 
 Please add at the end of each KML file the closing for Document </Document> and kml </kml>.
 - PM2.5 KLM file with and the messured values.
 - PM2.5 KLM file with and the messured values.
+
+![KML lines with colors and attitude](https://www.byteyourlife.com/wp-content/uploads/2017/05/Feinstaub_Sensor_Google_Earth_KML.jpg)
 # HowTo Guide
 Teh detailed HowTo is available on my blog:
 https://www.byteyourlife.com/haushaltsgeraete/feinstaub-sensor-sds011-mobile-variante-mit-datenaufzeichnung-und-gps-logging/7253
