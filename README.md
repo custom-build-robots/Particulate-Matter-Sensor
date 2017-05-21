@@ -1,6 +1,17 @@
 # Mobile Particulate Matter Sensor (MPMS)
-This is my program python program for the mobile particulate matter sensor. 
+This is my  python program for the mobile particulate matter sensor. 
 You need a SDS011 particulate matter sensor and a USB GPS receiver.
+I installed everything on a Raspberry Pi ZERO W.
 ## Component List
 - SDS011 particualte matter sensor
 - USB GPS receiver
+## Python program sds011.py
+This program logs the GPS coordinates and particulate matter values in a CSV file.
+## Python program sds011_2.py
+This program logs the GPS coordinates and particulate matter values in a different KML files.
+### Google Earth KML files with lines
+- PM2.5 KLM file with a line (red orange green) and the altitude shows how high the messured values are.
+- PM10 KLM file with a line (red orange green) and the altitude shows how high the messured values are.
+### Google Earth KML files with point
+- PM2.5 KLM file with and the messured values.
+- PM2.5 KLM file with and the messured values.
