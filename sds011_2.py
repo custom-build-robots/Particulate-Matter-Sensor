@@ -1,8 +1,13 @@
-#!/usr/bin/python
-# -*- coding: UTF-8 -*-
+#!/usr/bin/env python
+# coding: latin-1
+# Autor:   Ingmar Stapel
+# Datum:   20170521
+# Version:   1.0
+# Homepage:   https://www.byteyourlife.com/
+# I used this program to log the gps coordinates and the 
+# particulate matter values in different KML files
 
 import serial, time, struct
-import httplib, urllib
 import os
 from gps import *
 import time
