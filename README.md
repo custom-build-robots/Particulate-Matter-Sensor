@@ -1,7 +1,9 @@
 # Mobile Particulate Matter Sensor (MPMS)
-This is my  python program for the mobile particulate matter sensor. 
-You need a SDS011 particulate matter sensor and a USB GPS receiver.
+I developed on basis of the http://luftdaten.info/ project my mobile version of a prticulate matter sensor. Now on GitHub my  python program for the mobile particulate matter sensor which creates a kml log file with the particulate matter data and GPS coordinates. 
+You need a SDS011 particulate matter sensor, a Raspberry Pi ZERO W, a Power Bank and a USB GPS receiver.
 I installed everything on a Raspberry Pi ZERO W.
+![Mobile version of the Particulate Matter Sensor](https://www.byteyourlife.com/wp-content/uploads/2017/05/Feinstaub_Sensor_SDS011_Gehaeuse-768x576.jpg)
+The next picture shows me and my back pack with the mobile particulate matter sensor.
 ![me and the mobile version of the Particulate Matter Sensor](https://www.byteyourlife.com/wp-content/uploads/2017/05/Ingmar_Stapel_mobiler_Feinstaub_Sensor_SDS011_klein.jpg)
 ## Component List
 - SDS011 particualte matter sensor
